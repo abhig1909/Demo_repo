@@ -73,3 +73,8 @@ print('the density of liquid is =', density)
 
 
 print('Abhishek')
+
+
+#Comparison Operators.
+
+print(4>>2)
